@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7ca9871058b3d342a0358280bb23a56, type: 3}
+  m_Name: H2SO4
+  m_EditorClassIdentifier: 
+  score: 0
+  elementName: H2SO4
+  elementArt: {fileID: -5875489835583167946, guid: ba9633f0ff686574f96423be45f8560c, type: 3}
+  reactivity: 10
+  isMetal: 0
